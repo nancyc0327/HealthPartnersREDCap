@@ -43,7 +43,7 @@ var app = {
 
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
-        alert('readytoloadREDCapURL');
+        window.location.href='https://hprfstudies.org/redcap';
         console.log('Received Event: ' + id);
     }
 };
