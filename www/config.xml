@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>HealthPartnersREDCap</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Apps From HealthPartners Institute for Education and Research
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href=" " email="vijayakumar.x.thirumalai@healthpartners.com">
+        HealthPartners Research Informatics and Information Services
     </author>
 
     <!--
