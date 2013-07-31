@@ -43,6 +43,8 @@ var app = {
 
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
+        
+        //Redirect app web page to your REDCap URL
         window.location.href='https://hprfstudies.org/redcap';
         console.log('Received Event: ' + id);
     }
