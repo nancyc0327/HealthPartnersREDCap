@@ -45,7 +45,7 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
         
         //Redirect app web page to your REDCap URL
-        window.location.href='https://hprfstudies.org/redcap';
+        window.location.href='http://129.93.72.123/redcap/';
         console.log('Received Event: ' + id);
     }
 };
