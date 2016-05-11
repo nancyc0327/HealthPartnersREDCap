@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>HealthPartnersREDCap</name>
+    <name>Nan test app</name>
 
     <description>
-        Apps From HealthPartners Institute for Education and Research
+        Test App uses template from: Apps From HealthPartners Institute for Education and Research
     </description>
 
-    <author href=" " email="vijayakumar.x.thirumalai@healthpartners.com">
-        HealthPartners Research Informatics and Information Services
+    <author href=" " email="ncai2@unl.edu">
+        Test: HealthPartners Research Informatics and Information Services
     </author>
 
     <!--
